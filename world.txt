@@ -2,7 +2,6 @@ public class Bir {
 
      public static void main(String args[]) {
    
-         int sayi1=new Integer(args[0]);
          int sayi2=new Integer(args[1]);
 
          System.out.println("Toplam "+(sayi1+sayi2));
